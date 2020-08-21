@@ -1,0 +1,16 @@
+body{
+    background: #eee;
+}
+.required-field:after{
+    content: "*";
+    color: red;
+    margin-left: 2px;
+}
+.btn-custom {
+    background: #723dbe;
+    border-color: #723dbe;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    min-height: 48px;
+}
